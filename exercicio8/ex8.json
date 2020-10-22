@@ -1,0 +1,48 @@
+
+{
+    "items":[
+        {
+            "id":"5",
+            "titulo":"admin",
+            "subtitulo":"flavio@tecnologia2u.com.br",
+            "username":"admin",
+            "foto":"null"
+        }, {
+            "id":"18",
+            "titulo":"diego",
+            "subtitulo":"diego.ananias@tecnologia2u.com.br",
+            "username":"diego",
+            "foto":"null"
+        }, {
+            "id":"9",
+            "titulo":"Flavio",
+            "subtitulo":"flavio1@tecnologia2u.com.br",
+            "username":"Flavio",
+            "foto":"null"
+        }, {
+            "id":"22",
+            "titulo":"jeni",
+            "subtitulo":"jeniffer@tecnologia2u.com.br",
+            "username":"jeniffer",
+            "foto":"null"
+        }, {
+            "id":"23",
+            "titulo":"Matheus Moura Gon?alves",
+            "subtitulo":"null",
+            "username":"matheus",
+            "foto":"null"
+        }, {
+            "id":"20",
+            "titulo":"Rafael",
+            "subtitulo":"rafael@tecnologia2u.com.br",
+            "username":"rafael",
+            "foto":"null"
+        }, {
+            "id":"19",
+            "titulo":"rogerio",
+            "subtitulo":"rogerio.mekaro@tecnologia2u.com.br",
+            "username":"rogerio",
+            "foto":"null"
+        }
+    ]
+}
